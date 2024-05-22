@@ -27,5 +27,5 @@ auth functionality implementations are:
   Authorized user edit and delete: Only a registered and authenticated user
   can edit or remove their own user account details.
 
-  Please feel free to use this and start building your own app!
+  Please feel free to use this and start building your own app! :)
 

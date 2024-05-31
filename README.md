@@ -29,3 +29,11 @@ auth functionality implementations are:
 
   Please feel free to use this and start building your own app! :)
 
+  ***
+To use it, clone it.
+Once you have the code, go on terminal and type:
+yarn
+--this is to install all node modules/dependencies needed for the project...
+run development
+--this is to run the project, to open go on your browser and type http://localhost:3000/
+
